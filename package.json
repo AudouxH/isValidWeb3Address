@@ -1,0 +1,29 @@
+{
+  "name": "isvalidweb3address",
+  "version": "1.0.1",
+  "description": "Validate Ethereum addresses easily with the isValidWeb3Address npm package for seamless integration into your blockchain projects.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AudouxH/isValidWeb3Address.git"
+  },
+  "keywords": [
+    "web3",
+    "address",
+    "validator"
+  ],
+  "author": "AudouxH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AudouxH/isValidWeb3Address/issues"
+  },
+  "homepage": "https://github.com/AudouxH/isValidWeb3Address#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.4",
+    "jest": "^29.6.4",
+    "ts-jest": "^29.1.1"
+  }
+}
